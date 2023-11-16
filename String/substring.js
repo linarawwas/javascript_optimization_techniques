@@ -1,5 +1,5 @@
 // string slicing
-
+// **Runtime:** O(n), where n is the length of the extracted substring.
 // substr(), substring(), slice()
 
 // substr(): legacy code, don't use it, takes index start 
